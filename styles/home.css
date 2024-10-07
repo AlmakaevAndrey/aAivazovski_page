@@ -1,13 +1,13 @@
 .home {
         text-align: center;
-        padding: 0 0 0 0;
+        padding: 0 0 70px 0;
 }
 
 .home-title {
     font-size: 45px;
-    font-weight: 700px;
+    font-weight: 700;
     color: var (#000000);
-    margin-top: 45px 0 25px 0;
+    margin: 45px 0 25px 0;
 }
 
 .home-description {
@@ -24,7 +24,7 @@
 
 @media (max-width: 480px) {
     .home {
-        text-align: left;
+        text-align: center;
     }
     .home-title {
         max-width: 250px;
