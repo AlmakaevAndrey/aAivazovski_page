@@ -16,9 +16,8 @@
     border: none;
     border-radius: 21px;
     margin: 75px 0 30px;
-
-
 }
+
 .contacts-button:hover {
     opacity: .8;
 }
