@@ -35,7 +35,7 @@
     right: 100%;
     bottom: -10px;
     height: 1px;
-    background-color:var(--font-main-black) ;
+    background-color:var(--font-color-grey) ;
     transition: right .22s;
 }
 .nav-link:hover {
